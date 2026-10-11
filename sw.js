@@ -1,5 +1,5 @@
 // 앱 파일을 고쳐서 배포할 때마다 아래 버전 숫자를 올려야 새 버전이 적용된다.
-const CACHE_NAME = "todo-app-v1";
+const CACHE_NAME = "todo-app-v2";
 
 // 오프라인용으로 미리 저장할 앱 파일 (모두 상대 경로)
 const APP_FILES = [
